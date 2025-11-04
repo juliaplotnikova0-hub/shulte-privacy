@@ -7,7 +7,7 @@ This repository hosts the **Privacy Policy** for the mobile game **Shulte Table*
 ## 🌍 Online version
 
 You can view the live version of the privacy policy here:  
-👉 [https://juliaplotnikova0-hub.github.io/shulte-privacy/privacy_policy.html](https://juliaplotnikova0-hub.github.io/shulte-privacy/privacy_policy.html)
+👉 [https://juliaplotnikova0-hub.github.io/shulte-privacy/shulte_privacy.html](https://juliaplotnikova0-hub.github.io/shulte-privacy/shulte_privacy.html)
 
 ---
 
